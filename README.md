@@ -1,8 +1,11 @@
 # Data Analysis 2 Project
-Data Analysis 2 Project for Group 6 , this Project Created By: Eyad Alharthi - 444000005 , Mohammed Alsarhani - 444006145
+Data Analysis 2 Project for Group 6 , this Project Created By: 
+
+Eyad Alharthi - 444000005 
+, Mohammed Alsarhani - 444006145
 
 
-this project have 3 tasks:
+this project has 3 tasks:
 
 Task 1: Naive Bayes Classifier
 Objective: Build a Naive Bayes classifier to predict a target variable.
