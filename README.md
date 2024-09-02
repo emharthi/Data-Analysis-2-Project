@@ -7,7 +7,7 @@ Eyad Alharthi - 444000005
 
 this Project has 3 Tasks:
 
-#Tasks:
+*Tasks:*
 
 Task 1: Naive Bayes Classifier
 Objective: Build a Naive Bayes classifier to predict a target variable.
