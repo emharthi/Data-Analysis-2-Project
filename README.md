@@ -11,6 +11,7 @@ this Project has 3 Tasks:
 
 Task 1: Naive Bayes Classifier
 Objective: Build a Naive Bayes classifier to predict a target variable.
+
 Deliverables:
 - Python code implementing the Naive Bayes classifier.
 - A short report explaining your data processing steps, model choice, performance 
