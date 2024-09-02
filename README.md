@@ -23,6 +23,9 @@ Deliverables:
 - A short report summarizing the rules discovered and their potential real-world 
 applications.
 
+*The project outcomes, including code and reports, will be
+hosted on this Repositorie.*
+
 Task 3: Text Analysis (Extra Model)
 Objective: Build a Naive Bayes text classification model to categorize text data.
 Deliverables:
