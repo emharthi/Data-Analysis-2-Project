@@ -19,6 +19,7 @@ evaluation, and insights gained from the model
 
 Task 2: Market Basket Analysis
 Objective: Use association rule learning techniques to perform Market Basket Analysis.
+
 Deliverables:
 - Python code implementing Market Basket Analysis.
 - A short report summarizing the rules discovered and their potential real-world 
@@ -27,6 +28,7 @@ applications.
 
 Task 3: Text Analysis (Extra Model)
 Objective: Build a Naive Bayes text classification model to categorize text data.
+
 Deliverables:
 - Python code implementing the Naive Bayes text classifier.
 - A short report explaining the text preprocessing, model performance, and insights 
