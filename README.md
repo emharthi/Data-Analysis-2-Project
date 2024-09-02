@@ -10,6 +10,7 @@ this Project has 3 Tasks:
 *Tasks:*
 
 Task 1: Naive Bayes Classifier
+
 Objective: Build a Naive Bayes classifier to predict a target variable.
 
 Deliverables:
@@ -18,6 +19,7 @@ Deliverables:
 evaluation, and insights gained from the model
 
 Task 2: Market Basket Analysis
+
 Objective: Use association rule learning techniques to perform Market Basket Analysis.
 
 Deliverables:
@@ -27,6 +29,7 @@ applications.
 
 
 Task 3: Text Analysis (Extra Model)
+
 Objective: Build a Naive Bayes text classification model to categorize text data.
 
 Deliverables:
