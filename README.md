@@ -7,9 +7,9 @@ Eyad Alharthi - 444000005
 
 this Project has 3 Tasks:
 
-*Tasks:*
+***Tasks:***
 
-*Task 1: Naive Bayes Classifier:*
+***Task 1: Naive Bayes Classifier:***
 
 Objective: Build a Naive Bayes classifier to predict a target variable.
 
@@ -18,7 +18,7 @@ Deliverables:
 - A short report explaining your data processing steps, model choice, performance 
 evaluation, and insights gained from the model
 
-*Task 2: Market Basket Analysis:*
+***Task 2: Market Basket Analysis:***
 
 Objective: Use association rule learning techniques to perform Market Basket Analysis.
 
@@ -28,7 +28,7 @@ Deliverables:
 applications.
 
 
-*Task 3: Text Analysis (Extra Model):*
+***Task 3: Text Analysis (Extra Model):***
 
 Objective: Build a Naive Bayes text classification model to categorize text data.
 
@@ -37,5 +37,5 @@ Deliverables:
 - A short report explaining the text preprocessing, model performance, and insights 
 gained from the analysis.
 
-*The Project outcomes, including Code and Reports, will be
-hosted on this Repositorie.*
+***The Project outcomes, including Code and Reports, will be
+hosted on this Repositorie.***
