@@ -37,5 +37,9 @@ Deliverables:
 - A short report explaining the text preprocessing, model performance, and insights 
 gained from the analysis.
 
+
+
 ***The Project outcomes, including Code and Reports, will be
 hosted on this Repositorie.***
+
+  ***Project Supervisor: Dr. Idrees Alsolbi**
