@@ -1,11 +1,11 @@
-# Data Analysis 2 Project for Group 6
-Data Analysis 2 Project for Group 6 , this Project Created By: 
+# *Data Analysis 2 Project for Group 6*
+*Data Analysis 2 Project for Group 6 , this Project Created By:*
 
-Eyad Alharthi - 444000005 
-, Mohammed Alsarhani - 444006145
+***Eyad Alharthi - 444000005 
+, Mohammed Alsarhani - 444006145***
 
 
-this Project has 3 Tasks:
+*this Project has 3 Tasks:*
 
 ***Tasks:***
 
