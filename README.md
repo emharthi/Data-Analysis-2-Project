@@ -28,7 +28,7 @@ Deliverables:
 applications.
 
 
-***Task 3: Text Analysis (Extra Model):***
+***Task 3: Sentiment Analysis :***
 
 Objective: Build a Naive Bayes text classification model to categorize text data.
 
