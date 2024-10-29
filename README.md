@@ -1,6 +1,6 @@
 # Data Analysis 2 Project
 
-**Deadline:** Tuesday, 29th October 2024, 11:59 pm
+**Deadline:** Tuesday, 29th October 2024, 1:00 PM
 
 This project demonstrates the application of three core data science techniques: Naive Bayes for classification, Market Basket Analysis for association rule learning, and Text Analysis for text classification. Each technique is applied to a specific dataset, and the results, including code and reports, are hosted in this GitHub Repository.
 
