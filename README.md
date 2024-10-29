@@ -38,7 +38,7 @@ This project demonstrates the application of three core data science techniques:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/emharthi/Data-Analysis-2-Project-Group-6-.git
+   git clone https://github.com/emharthi/Data-Analysis-2-Project-.git
 
 ---
 ### Project Members
