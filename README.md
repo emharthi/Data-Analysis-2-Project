@@ -9,7 +9,7 @@ This project demonstrates the application of three core data science techniques:
 
 ## 1. Naive Bayes Classifier
 
-- **Objective**: Build a Naive Bayes classifier to predict diabetes using the Pima Indians Diabetes Dataset.
+- **Objective**: Build a Naive Bayes classifier to predict Diagnosis using the Breast Cancer Wisconsin (Diagnostic) Dataset.
 - **Dataset**: [Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 - **Deliverables**:
   - `Naive_Bayes_classification.ipynb`: Jupyter Notebook implementing the Naive Bayes classifier.
@@ -18,7 +18,7 @@ This project demonstrates the application of three core data science techniques:
 
 ## 2. Market Basket Analysis
 
-- **Objective**: Apply Market Basket Analysis using association rule learning techniques on the Brazilian E-Commerce Dataset.
+- **Objective**: Apply Market Basket Analysis using association rule learning techniques on the basket_analysis Dataset.
 - **Dataset**: [Market Basket Analysis Data](https://www.kaggle.com/datasets/ahmtcnbs/datasets-for-appiori)
 - **Deliverables**:
   - `Task_2_(Market_Basket_Analysis).ipynb`: Jupyter Notebook for Market Basket Analysis.
@@ -27,7 +27,7 @@ This project demonstrates the application of three core data science techniques:
 
 ## 3. Text Analysis (Sentiment Analysis)
 
-- **Objective**: Build a text classification model for categorizing fake news.
+- **Objective**: Build a text classification model for Restaurants Reviews Dataset.
 - **Dataset**: [Yelp Reviews Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)
 - **Deliverables**:
   - `Task_3 (Sentiment_Analysis).ipynb`: Jupyter Notebook for text classification.
