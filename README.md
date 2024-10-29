@@ -25,7 +25,7 @@ This project demonstrates the application of three core data science techniques:
 
 ---
 
-## 3. Text Analysis (Extra Model)
+## 3. Text Analysis (Sentiment Analysis)
 
 - **Objective**: Build a text classification model for categorizing fake news.
 - **Dataset**: [Yelp Reviews Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset)
