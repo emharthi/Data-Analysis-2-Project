@@ -42,8 +42,8 @@ This project demonstrates the application of three core data science techniques:
 
 ---
 ### Project Members
-- **Eyad Alharthi** - S.ID: 444000005
-- **Mohammed Alsarhani** - S.ID: 444006145
+- **Eyad Alharthi** - Student No. 444000005
+- **Mohammed Alsarhani** - Student No. 444006145
   
 
 
